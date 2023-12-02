@@ -8,4 +8,5 @@
 - HW1-Covid prdiction. Recorded on: [2023/12/01]
   - Restructuring the baseline.
   - Made some feature engineering.
-  - Adding a regularzation term.
+  - Adding a regularzation term. 
+  - Using Adam as optimizer
