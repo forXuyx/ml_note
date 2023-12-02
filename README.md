@@ -6,5 +6,6 @@
 ### Introduction
 - Note1-Pytorch Tutorial. Recorded on: [2023/12/01]
 - HW1-Covid prdiction. Recorded on: [2023/12/01]
-  - I have made some modifications for the baseline.
-  - Made some feature engineering
+  - Restructuring the baseline.
+  - Made some feature engineering.
+  - Adding a regularzation term.
