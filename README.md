@@ -9,3 +9,4 @@
   - Made some feature engineering.
   - Adding a regularzation term. 
   - Using Adam as optimizer
+  - Adding warm-up and scheduler decay
